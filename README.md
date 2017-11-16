@@ -2,7 +2,7 @@
 School project.
 Just a simple WP-theme made with ACF plugin.
 
-##Install
+## Install
 
 Simply add the folder to the themes folder in your wordpress project-folder.
 
